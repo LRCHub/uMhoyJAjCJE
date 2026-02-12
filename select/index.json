@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Orion",
+  "base_artist": "エイジア エンジニア",
+  "createdAt": "2026-02-12T17:21:54.096434Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Orion",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_Orion_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rnw@y (Backyard Bangers Reanimation) [feat. Phoenix Orion]",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/02_Rnw@y_(Backyard_Bangers_Reanimation)_[feat._Phoenix_Orion]_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "RNW@Y\u0000\u0000Backyard Bangers feat. Phoenix Orion",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/03_RNW@Y\u0000\u0000Backyard_Bangers_feat._Phoenix_Orion_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Guide Me, Orion",
+      "artist": "Flaming Youth",
+      "has_synced": false,
+      "path": "select/04_Guide_Me,_Orion_Flaming_Youth.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Guide Me Orion",
+      "artist": "Flaming Youth",
+      "has_synced": false,
+      "path": "select/05_Guide_Me_Orion_Flaming_Youth.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Pharaoh Sails to Orion",
+      "artist": "Nightwish",
+      "has_synced": false,
+      "path": "select/06_The_Pharaoh_Sails_to_Orion_Nightwish.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Pharaoh Sails To Orion",
+      "artist": "Nightwish",
+      "has_synced": true,
+      "path": "select/07_The_Pharaoh_Sails_To_Orion_Nightwish.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Pharaoh Sails To Orion",
+      "artist": "Nightwish",
+      "has_synced": true,
+      "path": "select/08_The_Pharaoh_Sails_To_Orion_Nightwish.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Pharaoh Sails to Orion",
+      "artist": "Nightwish",
+      "has_synced": true,
+      "path": "select/09_The_Pharaoh_Sails_to_Orion_Nightwish.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Arms of Orion",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/10_The_Arms_of_Orion_Prince.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Orion",
+      "artist": "Coal Chamber",
+      "has_synced": true,
+      "path": "select/11_Orion_Coal_Chamber.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Orion",
+      "artist": "エイジアエンジニア",
+      "has_synced": false,
+      "path": "select/pl_01_Orion_エイジアエンジニア.txt"
+    }
+  ]
+}
